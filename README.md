@@ -1,0 +1,2 @@
+# alarm
+simple alarm script
