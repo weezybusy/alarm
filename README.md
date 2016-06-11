@@ -1,2 +1,3 @@
 # alarm
-simple alarm script
+
+A simple bash script which in conjunction with `cron` wakes me up every morning.
